@@ -1,0 +1,11 @@
+Grammar issues found in sample/resume2.pdf:
+
+BACHELOR_ABBR: Consider using a more common abbreviation of this university degree.
+ Context: # John Doe  ## Education  - BSc in Computer Science, University of Nowh...
+
+DASH_RULE: If you want to indicate numerical ranges or time ranges, consider using an en dash.
+ Context: ...ter Science, University of Nowhere (2020 - 2024)  ## Skills  - Python, JavaScript, ...
+
+MORFOLOGIK_RULE_EN_US: Possible spelling mistake found.
+ Context: ...Docker, Git  ## Experience  - Intern at ExampleCorp (Summer 2023)  
+
